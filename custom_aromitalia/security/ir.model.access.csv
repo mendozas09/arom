@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+custom_aromitalia.access_stock_picking_aromitalia,access_stock_picking_aromitalia,custom_aromitalia.model_stock_picking_aromitalia,base.group_user,1,1,1,1
+custom_aromitalia.access_stock_picking_aromitalia_lines,access_stock_picking_aromitalia_lines,custom_aromitalia.model_stock_picking_aromitalia_lines,base.group_user,1,1,1,1
